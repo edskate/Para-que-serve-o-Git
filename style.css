@@ -1,0 +1,20 @@
+body{
+    background-color:#000;
+}
+
+h1{
+    color: aqua;
+    text-shadow: 1px 2px 3px #000;
+    margin: 50px;
+
+}
+p{
+    margin: 50px;
+    color: green;
+    font-size: 20px;
+    text-shadow: 10px 20px 30px #000;
+}
+b{
+    color: aqua;
+    text-shadow: 1px 1px 1px #000;
+}
